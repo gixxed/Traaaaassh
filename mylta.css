@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JBHCweSb1U6ylLk2rAqjs8vPb6x8VNXF__kyLd_b_88iNVKjXQ");
+    background-size: 1500px 800px;
+}
+
+h3 {
+    color: red;
+    background-color: white;
+}
+
+a {
+    color: red; 
+    background-color: white;
+}
